@@ -1,5 +1,14 @@
 # Getting Started with Create React App
 
+When I tried to install react-html-table-to-excel I am getting this error?
+
+Try this:
+npm install --save react-html-table-to-excel --legacy-peer-deps
+
+It worked for me!
+
+Happy Hacking!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
